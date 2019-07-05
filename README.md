@@ -23,8 +23,11 @@ Units tests are included for each function.
 # Test Coverage
 
 * Issue CoverageTool:
+
   Command: **go tool cover -html=cover.out -o cover.html**
-* The **cover.html** file shows which instructions have been test in green.
+
+* The **cover.html** file shows which instructions have been tested in green.
 * Untested code is shown in red.
+
 * The test coverage percentage for exam is **95.8%**
 
