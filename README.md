@@ -10,6 +10,7 @@ Units tests are included for each function.
 # Executing Progam
 
 * Download the progam zip file from https://github.com/godfather667/exam
+* Rename **exam-master.zip** to **exam.zip**
 * Unpack the zip file into a standard golang dir structure: **../src directory**
 * Change directory to **../src/exam** 
 
